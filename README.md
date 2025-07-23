@@ -1,4 +1,4 @@
-![Design](images/voting_app.JPG)
+![Design](images/design.JPG)
 
 # App To Vote
 
